@@ -54,7 +54,7 @@ Though, Ghana appears to be well in ahead of Cote d'Ivoire in this analysis, due
 
 * [LinkedIn Learning (Learning R)](https://www.linkedin.com/learning/learning-r-18748884)
 * [w3schools](https://www.w3schools.com/r/default.asp)
-*[Kaggle](https://www.kaggle.com/datasets/abdulhamitcelik/international-tourism-receipts)
+* [Kaggle](https://www.kaggle.com/datasets/abdulhamitcelik/international-tourism-receipts)
 
 # Future Work
 
